@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "haskell.haskell",
+        "phoityne.phoityne-vscode",
+        "yzhang.markdown-all-in-one",
+        "DavidAnson.vscode-markdownlint",
+        "ionutvmi.path-autocomplete",
+        "eamodio.gitlens",
+		"GitHub.vscode-pull-request-github",
+        "ms-azuretools.vscode-docker",
+        "ms-vscode-remote.remote-containers",
+        "wesbos.theme-cobalt2",
+        "ms-python.python"
+    ]
+}
